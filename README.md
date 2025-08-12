@@ -1,7 +1,7 @@
 # Hi there, I'm Ammar Ibrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 ## 🚀 About Me  
-I'm **Ammar Ibrahim bin Mohamed**, a passionate **Engineering and IT** and aspiring **Software Developer** from Malaysia.  
+I'm **Ammar Ibrahim bin Mohamed**, a passionate **Engineering and IT** and aspiring **Software Developer** from Malaysia.    
 Currently pursuing a **Bachelor of Computer Science (Software Engineering)** at Universiti Teknologi Malaysia (UTM KL), while working full-time in ERP Solutions Support Analyst.  
 
 I love building practical, real-world solutions — from industrial automation integration to software applications that make life easier.  
