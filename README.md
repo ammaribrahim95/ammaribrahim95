@@ -1,4 +1,4 @@
-# Hi there, I'm Ammar Ibrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Ammar Ibrahim <img src="https://raw.githubusercontent.com/ammaribrahim95/ammaribrahim95/master/wave.gif" width="30px">
  
 ## 🚀 About Me  
 I'm **Ammar Ibrahim bin Mohamed**, a passionate **Engineering and IT** and aspiring **Software Developer** from Malaysia.    
