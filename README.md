@@ -49,7 +49,7 @@ I love building practical, real-world solutions — from industrial automation i
 ## 🛠 Skills & Expertise  
 
 ### **Programming & Software Development**  
-- Java, C++, Python, JavaScript, HTML/CSS
+- Java, C++, Python, JavaScript, HTML/CSS, SQL
 - API integration & software testing
 - ERP System Support (Epicor Kinetic)
 
