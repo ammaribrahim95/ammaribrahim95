@@ -78,7 +78,9 @@ I love building practical, real-world solutions — from industrial automation i
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ammar-ibrahim-mohamed-180328217/)  
+<a href="https://www.linkedin.com/in/ammar-ibrahim](https://www.linkedin.com/in/ammar-ibrahim-mohamed-180328217" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" />
+</a>
 [![Email](https://img.shields.io/badge/Email-ammaribrahim1995@gmail.com-red)](mailto:ammaribrahim1995@gmail.com)  
 
 ---
