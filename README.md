@@ -72,6 +72,7 @@ I love building practical, real-world solutions — from industrial automation i
 ---
 
 ## 📌 Featured Projects  
+🔹 [Bootstrap Resume](https://ammaribrahim95.github.io/)  
 
 
 ---
