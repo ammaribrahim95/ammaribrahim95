@@ -13,8 +13,15 @@ I love building practical, real-world solutions — from industrial automation i
 
 **ERP Support Analyst** — *Stellar Dynamic Solutions Sdn Bhd*  
 📅 *May 2025 - Present*  
-- Supported and configured ERP modules to improve business processes.  
-- Trained users and resolved technical issues in Epicor Kinetic.  
+- Provide first-line functional support to end-users across Epicor ERP modules, ensuring timely resolution of incidents and service requests.
+- Configure and maintain ERP modules (Finance, Manufacturing, Supply Chain, Inventory) to align with evolving business requirements.
+- Analyze business processes and translate them into system requirements, recommending process improvements leveraging Epicor functionality.
+- Develop and maintain Business Activity Queries (BAQs), dashboards, and custom reports to support decision-making.
+- Document system processes, prepare user guides, and deliver training sessions to enhance user adoption and system efficiency.
+- Collaborate with technical teams on system enhancements, customizations, BPMs, and integrations.
+- Participate in ERP upgrades, testing, and change management activities to ensure smooth transitions with minimal business disruption.
+- Monitor data quality, manage user access and permissions, and ensure compliance with security and governance standards.
+- Proactively identify opportunities to optimize ERP usage and improve operational efficiency.
 
 **Robotics Engineer** — *Engineering Aids Sdn Bhd*  
 *(Panasonic Robot Welding Machines)*  
