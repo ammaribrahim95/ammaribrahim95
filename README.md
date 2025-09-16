@@ -81,7 +81,7 @@ I love building practical, real-world solutions — from industrial automation i
 
 ## 📌 Featured Projects  
 🔹 [Bootstrap Resume](https://ammaribrahim95.github.io/)  
-🔹 [📸 CRUDImage Project](https://github.com/ammaribrahim95/Ammar-Portfolio/crudimage) – A simple CRUD application for managing images with upload, view, edit, and delete features.
+🔹 [📸 CRUDImage Project](https://github.com/ammaribrahim95/Ammar-Portfolio/tree/main/crudimage) – A simple CRUD application for managing images with upload, view, edit, and delete features.
 
 
 ---
