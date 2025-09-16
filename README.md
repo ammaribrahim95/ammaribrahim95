@@ -85,12 +85,11 @@ I love building practical, real-world solutions — from industrial automation i
 A responsive **resume website** built with Bootstrap to showcase my skills, education, and experience.  
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
 
----
 
 ### 🔹 [📸 CRUDImage Project](https://github.com/ammaribrahim95/Ammar-Portfolio/tree/main/crudimage)  
 A simple yet functional **CRUD application for image management** — upload, view, edit, and delete images with ease.  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![Backend](https://img.shields.io/badge/Backend-Dynamic-blue) ![Database](https://img.shields.io/badge/Database-Connected-green)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)  
 
 ---
 
