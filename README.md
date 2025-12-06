@@ -11,8 +11,24 @@ I love building practical, real-world solutions — from industrial automation i
 
 ## 💼 Work Experience  
 
+
+
+**Application Support Engineer** — *OS Trio Technology Sdn Bhd*  
+📅 *November 2025 - Present*  
+- Supported end-to-end ERP project implementation including kick-off meetings, system walkthroughs, blueprint documentation, UAT, user training, and go-live support.
+- Prepared, cleansed, and uploaded master file templates for customer systems.
+- Installed, configured, and maintained ERP systems, IIS servers, and SQL Server environments for both customer and internal test servers.
+- Performed SQL Server installation, database restoration, configuration, and reporting services deployment.
+- Handled customer server migration and ensured system stability post-deployment.
+- Provided technical support and consultation via phone, messaging platforms, and email.
+- Delivered internal IT support including PC, server, and network troubleshooting.
+- Conducted server maintenance such as Windows updates, antivirus updates, disk cleanup, and performance monitoring.
+- Managed backup operations including daily monitoring, restoration, and verification for servers and NAS systems.
+- Performed IT security audits and software licensing audits for Microsoft Windows and Office.
+- Handled external HDD backup and restoration operations for business continuity.
+
 **ERP Support Analyst** — *Stellar Dynamic Solutions Sdn Bhd*  
-📅 *May 2025 - Present*  
+📅 *May 2025 - September 2025*  
 - Provide first-line functional support to end-users across Epicor ERP modules, ensuring timely resolution of incidents and service requests.
 - Configure and maintain ERP modules (Finance, Manufacturing, Supply Chain, Inventory) to align with evolving business requirements.
 - Analyze business processes and translate them into system requirements, recommending process improvements leveraging Epicor functionality.
